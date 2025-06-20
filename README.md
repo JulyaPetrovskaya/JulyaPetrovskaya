@@ -8,7 +8,7 @@
 - [Demo](https://julyapetrovskaya.github.io/phone-catalog)
 - [GitHub](https://github.com/JulyaPetrovskaya/phone-catalog)
 
-## Dia  –  It’s a landing page for Strategic Agency - Air (Dia) 
+## 🎧 Dia  –  It’s a landing page for Strategic Agency - Air (Dia) 
 - [Demo] https://julyapetrovskaya.github.io/Dia-landing/ 
 - [GitHub] https://github.com/JulyaPetrovskaya/Dia-landing
 
