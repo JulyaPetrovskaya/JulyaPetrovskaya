@@ -1,4 +1,4 @@
-# Привіт! Я — Юлія, Frontend-розробниця - [My portfolio web side](https://my-frontend-portfolio-julya-petrovska.vercel.app/) 
+# Привіт! Я — Юлія, Frontend-розробниця - [My portfolio website](https://my-frontend-portfolio-julya-petrovska.vercel.app/) 
 🚀 Після навчання в Mate Academy я створила кілька практичних проєктів. Нижче ви знайдете посилання на мої роботи 👇
 
 ## 📱 React застосунок — Phone Catalog
